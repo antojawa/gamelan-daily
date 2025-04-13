@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap: https://antojawa.github.io/gamelan-daily/antojawa.xml
